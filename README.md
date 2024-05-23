@@ -1,4 +1,5 @@
 # Caminus
+Modelo canvas - https://miro.com/welcomeonboard/SUU1Vk8yVzBZSWdrem01OHFaYnRUV3hvbzJUaVlFNVhEZXN0TWhlR3ZYTUtXN0l3RjZnZXBXSEpJeEZpWVZuenwzNDU4NzY0NTg5OTM4MzM4ODk4fDI=?share_link_id=52188909401
 Caminus, um equipamento feito com intuito de auxiliar na produção de produtos artesanais oriundos da Amazônia. Utilizando a luz ultravioleta ele seca uma pasta de fibra de bananeira e priprioca que vem se tornar o papel artesanal. Utilizando a logica eletronica de um poste de luz a caminus por meio de um LRD, quando fica de noite a luz ultravioleta entra em ação.
 
 
