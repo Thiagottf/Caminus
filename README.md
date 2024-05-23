@@ -1,5 +1,5 @@
 # Caminus
-Caminus, um equipamento feito com intuito de auxiliar na produção de papel artesanal. Utilizando a luz ultravioleta ele seca uma pasta de fibra de bananeira e priprioca que vem se tornar o papel artesanal. Utilizando a logica eletronica de um poste de luz a caminus por meio de um LRD, quando fica de noite a luz ultravioleta entra em ação.
+Caminus, um equipamento feito com intuito de auxiliar na produção de produtos artesanais oriundos da Amazônia. Utilizando a luz ultravioleta ele seca uma pasta de fibra de bananeira e priprioca que vem se tornar o papel artesanal. Utilizando a logica eletronica de um poste de luz a caminus por meio de um LRD, quando fica de noite a luz ultravioleta entra em ação.
 
 
 
